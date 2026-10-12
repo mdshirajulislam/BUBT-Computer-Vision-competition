@@ -5,10 +5,11 @@
 [![MedMNIST v2](https://img.shields.io/badge/Dataset-MedMNIST%20v2%20(RetinaMNIST)-4CAF50.svg)](https://medmnist.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Competition: BUBT CV 2026](https://img.shields.io/badge/BUBT%20CV%20Competition-2026-6C63FF.svg)](https://www.bubt.edu.bd/)
+[![Organized by: BUBT-RGS](https://img.shields.io/badge/Organized%20by-BUBT%20Research%20Graduate%20School%20(BRGS)-00A86B.svg)](https://www.bubt.edu.bd/)
 
 Official implementation and presentation materials for the research paper:  
 **"Lightweight Hybrid CNN–Transformer for Imbalanced Diabetic Retinopathy Grading on RetinaMNIST"**  
-Presented at the **BUBT Computer Vision Competition Poster Session 2026**.
+Presented at the **BUBT Computer Vision Competition Poster Session 2026**, organized by the **BUBT Research Graduate School (BRGS)**, Bangladesh University of Business and Technology.
 
 ---
 
@@ -268,7 +269,7 @@ If you find this work or codebase helpful in your research, please cite:
   booktitle = {Proceedings of the BUBT Computer Vision Competition Poster Session},
   year      = {2026},
   address   = {Dhaka, Bangladesh},
-  note      = {Supervised by Md. Darun Nayeem}
+  note      = {Organized by BUBT Research Graduate School (BRGS); Supervised by Md. Darun Nayeem}
 }
 ```
 
@@ -276,7 +277,8 @@ If you find this work or codebase helpful in your research, please cite:
 
 ## 🙏 Acknowledgments
 
-- **Department of Computer Science and Engineering, BUBT** for hosting the Computer Vision Competition 2026.
+- **BUBT Research Graduate School (BRGS)** for organizing the Computer Vision Competition 2026.
+- **Department of Computer Science and Engineering (CSE), BUBT** for academic facilities and support.
 - **Md. Darun Nayeem** for continuous mentorship and valuable feedback.
 - The **MedMNIST** research team for providing the standardized RetinaMNIST benchmark.
 
