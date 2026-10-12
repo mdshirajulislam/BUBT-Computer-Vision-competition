@@ -17,8 +17,9 @@ Presented at the **BUBT Computer Vision Competition Poster Session 2026**.
 - **Author:** [Md Shirajul Islam](https://github.com/mdshirajulislam)  
   *Department of Computer Science and Engineering (CSE), Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh*  
   📧 Email: `sirajul.cpp@gmail.com`
-- **Supervisor:** **Md. Darun Nayeem**  
-  *Department of Computer Science and Engineering (CSE), BUBT*
+- **Supervisor:** [Md. Darun Nayeem](https://scholar.google.com/citations?user=QvG2fyIAAAAJ)  
+  *Department of Computer Science and Engineering (CSE), Bangladesh University of Business and Technology (BUBT)*  
+  🎓 [Google Scholar Profile](https://scholar.google.com/citations?user=QvG2fyIAAAAJ)
 
 ---
 
